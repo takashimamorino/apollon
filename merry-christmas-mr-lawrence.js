@@ -1,1 +1,1 @@
-$: note("[e6 d6 e6 a6 e6 d6]*2 [d6 c6 d6 g6 d6 c6]*2 [d6 c6 d6 b6 d6 c6]*2").slow("6").sound("piano")
+$: note("[e6 d6 e6 a6 e6 d6]*2 [e6 d6 e6 g6 e6 d6]*2 [d6 c6 d6 g6 d6 c6]*2").slow("6").sound("piano")
